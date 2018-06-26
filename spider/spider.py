@@ -1,6 +1,6 @@
 '''
 just for learning python craw.
-to crawing douban's book info with multiprocessing
+to crawing douban's book info from page1 to page10 with multiprocessing
 attention:you can start this demo in a little few times,
 then douban will banned your source ip to get info from douban.
 The following source URL information for the test
